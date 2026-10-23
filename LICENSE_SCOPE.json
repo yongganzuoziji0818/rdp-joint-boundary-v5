@@ -1,0 +1,16 @@
+{
+  "code": "MIT",
+  "original_constructed_data_results_documentation": "CC-BY-4.0",
+  "archives": "The same mapping applies to contained files; frozen bytes and original historical headers are retained.",
+  "code_extensions": [
+    ".py"
+  ],
+  "data_documentation_extensions": [
+    ".json",
+    ".jsonl",
+    ".md",
+    ".tex",
+    ".sha256"
+  ],
+  "exceptions": "No third-party papers or dependency distributions included. Root LICENSE_SCOPE.json resolves historical license-pending statements without modifying archive bytes."
+}

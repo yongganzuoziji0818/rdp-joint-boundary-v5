@@ -1,0 +1,47 @@
+{
+  "title": "Joint completion-time guarantees for online relief distribution: a network obstruction and a tight tree budget — companion code and constructed evidence",
+  "version": "v5.1.0",
+  "upload_type": "software",
+  "publication_date": "2026-10-23",
+  "creators": [
+    {
+      "name": "Liao, Yuan",
+      "affiliation": "Nanchang Hangkong University"
+    },
+    {
+      "name": "Liu, Hui",
+      "affiliation": "Nanchang Hangkong University"
+    },
+    {
+      "name": "Tu, Jiliang",
+      "affiliation": "Nanchang Hangkong University"
+    },
+    {
+      "name": "Wang, Haixing",
+      "affiliation": "Nanchang Hangkong University"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "description": "Exact-arithmetic companion evidence for contribution version V5. Includes unchanged general-network and tree readers, frozen constructed inputs, complete reference results, offline witnesses, algebra certificates, running instructions and checksums. Normal checks use Python 3.10+ and only the standard library. Original code is MIT licensed; original constructed inputs/results/documentation are CC BY 4.0. Replays are not new independent scientific samples, field tests, formal proofs or novelty certification. See the repository README for scope, negative results and comparison exclusions.",
+  "keywords": [
+    "online routing",
+    "competitive analysis",
+    "truck and drone",
+    "tree networks",
+    "exact arithmetic"
+  ],
+  "notes": "Mixed components: MIT for original code; CC BY 4.0 for original constructed data, results and documentation. The root LICENSE_SCOPE.json maps these components. Frozen historical V4/private-candidate identifiers remain unchanged for provenance. This archive is a different work from the earlier marginal-recurrence manuscript.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yongganzuoziji0818/rdp-joint-boundary-v5/tree/v5.1.0",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://arxiv.org/abs/2603.23135v1",
+      "relation": "references",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}

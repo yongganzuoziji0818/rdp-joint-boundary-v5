@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".zenodo.json": "9377ae8ec9c4258fa4ce8a619f59fbc9227d2ac357506668a805034492af2b4d",
+    "CITATION.cff": "a6b898c7453ba6cce8bad449e0705a29760c529f3b203fbbf50f836a30368887",
+    "DATA_LICENSE.md": "78e14c1c7995e6e0b9510a83db43e10c6a766f4de48e2a1b35bd1120bf39217d",
+    "LICENSE": "f7f92ec4e666cafb2f04f5a62fc4fb2a189a253412809c001b19391cf2eddb80",
+    "LICENSE_SCOPE.json": "b091281012ee78d499f0845d56cb0f098d248c848dd07ee082786602ef591b9a",
+    "rdp_no_slowdown_v4_reproducibility_candidate_r2.zip": "98dcd0aa6e992030894a8ee07f2f843a96f3330a4c86ae5ec415a8e816c3110c",
+    "README.md": "bd126b6eddc0367df6a770f42fd262f42bc7777a1debb6c8346118b985811288",
+    "README_FIRST.md": "bd126b6eddc0367df6a770f42fd262f42bc7777a1debb6c8346118b985811288",
+    "tree_reader_v5_candidate_v1.zip": "3af6e529fab3fa777531dc4089ae47a7f109a9b52e745b13357505dcdebff6ca",
+    "verify_and_extract.py": "1adf89e76f3c5de70696533357bd62e80461b363a804fa41106d6cf08ec019ed"
+  },
+  "components": {
+    "rdp_no_slowdown_v4_reproducibility_candidate_r2.zip": "general_network",
+    "tree_reader_v5_candidate_v1.zip": "trees"
+  },
+  "version": "v5.1.0",
+  "license_approved": true
+}

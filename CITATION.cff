@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this version of the companion artifact when reusing its code or constructed evidence."
+type: software
+title: "Joint completion-time guarantees for online relief distribution: companion code and constructed evidence"
+version: v5.1.0
+date-released: 2026-10-23
+url: "https://github.com/yongganzuoziji0818/rdp-joint-boundary-v5"
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - family-names: Liao
+    given-names: Yuan
+  - family-names: Liu
+    given-names: Hui
+  - family-names: Tu
+    given-names: Jiliang
+  - family-names: Wang
+    given-names: Haixing
