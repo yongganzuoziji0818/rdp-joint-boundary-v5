@@ -1,0 +1,42 @@
+{
+  "title": "Budget and competitive guarantees for online truck-drone relief distribution: V7 companion code and constructed evidence",
+  "version": "v7.0.0",
+  "upload_type": "software",
+  "publication_date": "2026-10-24",
+  "description": "Companion code and constructed evidence for contribution version V7 of “Budget and competitive guarantees for online truck-drone relief distribution”. Authors: Yuan Liao, Hui Liu, Jiliang Tu and Haixing Wang. Version v7.0.0.\n\nThis is a new version of the same research artifact as V5 (10.5281/zenodo.23590304), not a replacement of that historical record. The frozen complete reader contains original exact-arithmetic implementations, constructed task inputs, reference results and trajectories, explicit offline witnesses, algebra certificates, and ordinary comparator checks. It includes the equal-speed root-spider ordinary-LPT component, the ordered same-component witness and the two-world scalar-bound illustration.\n\nPython 3.10 or later and the standard library suffice for normal reader checks. Full replay was qualified on Linux CPU; Windows full replay is not certified. The reader replays 10,199 existing execution records, including eight two-world illustration records and 96 exact allocation rows. Replays are not independent samples or new experiments. No numerical tolerance or scientific comparison contract is changed by this release. Optional regeneration of earlier algebra certificates requires SymPy 1.14.0.\n\nOriginal scientific/reproduction Python code is MIT licensed. Original constructed inputs, results, research documentation and metadata are CC BY 4.0. Root LICENSE_SCOPE.json explains the recursive scope and preserved V5 notices. Earlier private-candidate names and status statements inside the byte-frozen reader are retained for provenance; they do not describe the current outer release.\n\nNo new manuscript PDF or full TeX source bundle, third-party publication PDF, dependencies, credentials, private server logs or author-review records are included. These are the project's implementations, not the original RDP authors' repository. Task source: Neugebauer, Otto and Schmidt, The relief distribution problem with trucks and drones under incomplete demand information, arXiv:2603.23135v1, https://arxiv.org/abs/2603.23135v1 . No universal-policy enumeration, full formal verification, field-rescue benefit, novelty certification or journal acceptance is claimed.\n\nRepository version: https://github.com/yongganzuoziji0818/rdp-joint-boundary-v5/releases/tag/v7.0.0 . Verify DOWNLOAD_CHECKSUMS.sha256, extract the ZIP and follow README_FIRST.md.",
+  "creators": [
+    {
+      "name": "Liao, Yuan",
+      "affiliation": "Nanchang Hangkong University"
+    },
+    {
+      "name": "Liu, Hui",
+      "affiliation": "Nanchang Hangkong University"
+    },
+    {
+      "name": "Tu, Jiliang",
+      "affiliation": "Nanchang Hangkong University"
+    },
+    {
+      "name": "Wang, Haixing",
+      "affiliation": "Nanchang Hangkong University"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "doi": "10.5281/zenodo.23607213",
+  "keywords": [
+    "online routing",
+    "competitive analysis",
+    "relief distribution",
+    "surveillance drones",
+    "tree networks",
+    "exact reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yongganzuoziji0818/rdp-joint-boundary-v5/releases/tag/v7.0.0",
+      "scheme": "url",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

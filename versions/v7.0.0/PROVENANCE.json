@@ -1,0 +1,19 @@
+{
+  "state": "authorized_V7_v7.0.0_release",
+  "contribution_version": "RDP_JOINT_COMPUTABLE_BOUNDARY_V7_20261023",
+  "manuscript_revision": 6,
+  "manuscript_pdf_sha256": "c1ac1fcbfe0a48187f0b674b27d7846da7ebdd5ce967816ffd0e26a2d3a0c012",
+  "frozen_reader_sha256": "3c8e08d58f61da36c8c5923151a04b73f4b85260ef4eb10be3e6f49c20cbef22",
+  "qualification_receipt_sha256": "3ad0a5111560a559c26f713d332d7b0794c9af219fabba42d858b9aaf9397c27",
+  "qualification_platform": "Linux CPU; Python 3.10 or later; standard library",
+  "reader_scientific_files_changed": false,
+  "new_scientific_executions": 0,
+  "existing_execution_records_replayed_in_prior_qualification": 10199,
+  "new_unique_records_in_package_preparation": 0,
+  "license_status": "authorized_MIT_and_CC_BY_4.0",
+  "DOI": "10.5281/zenodo.23607213",
+  "submission": false,
+  "payload_scope": "Original scientific/reproduction Python code and constructed evidence; no manuscript PDF or TeX included.",
+  "version": "v7.0.0",
+  "public_release_authorized": true
+}

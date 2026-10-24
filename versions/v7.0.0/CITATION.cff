@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this version-specific companion artifact when using its code or constructed evidence."
+type: software
+title: "Budget and competitive guarantees for online truck-drone relief distribution: V7 companion code and constructed evidence"
+version: v7.0.0
+date-released: 2026-10-24
+doi: 10.5281/zenodo.23607213
+url: "https://github.com/yongganzuoziji0818/rdp-joint-boundary-v5/releases/tag/v7.0.0"
+authors:
+  - family-names: Liao
+    given-names: Yuan
+  - family-names: Liu
+    given-names: Hui
+  - family-names: Tu
+    given-names: Jiliang
+  - family-names: Wang
+    given-names: Haixing
+license:
+  - MIT
+  - CC-BY-4.0
